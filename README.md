@@ -48,9 +48,10 @@
     <td>
       <h3><a href="https://github.com/999mamun999/PetBot">🤖 PetBot</a></h3>
       A tiny <b>Bangla-speaking desk pet robot</b> — ESP8266 + OLED + MPU6050 + touch + buzzer + servo arms.<br><br>
-      😊 28 moods &nbsp;·&nbsp; 🎵 songs with lyrics &nbsp;·&nbsp; 🎮 8 games<br>
+      😊 28 moods &nbsp;·&nbsp; 🎵 songs with lyrics &nbsp;·&nbsp; 🎮 8 games &nbsp;·&nbsp; 🎬 11 animations<br>
+      🐣 feed it like a real pet &nbsp;·&nbsp; 📋 2-tap menu &nbsp;·&nbsp; 🌙 night mode &nbsp;·&nbsp; 🙃 gestures<br>
       📅 Bangla & Hijri calendar &nbsp;·&nbsp; 🕌 prayer times &nbsp;·&nbsp; ⏰ alarms<br>
-      📱 phone web page &nbsp;·&nbsp; ✈️ Telegram control from anywhere
+      📱 phone web page with login &nbsp;·&nbsp; ✈️ Telegram control + yes/no questions from anywhere
     </td>
   </tr>
 </table>
